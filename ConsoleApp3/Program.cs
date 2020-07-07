@@ -17,6 +17,8 @@ namespace GoogleCloudSamples
 
         public static void Main(string[] args)
         {
+            // jhkgjk hgf kjsdf g sdfg
+
 
             //var speech = SpeechClient.Create();
             //var response = speech.Recognize(new RecognitionConfig()
